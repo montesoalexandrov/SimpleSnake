@@ -1,0 +1,2 @@
+# SimpleSnake
+SimpleSnake - console game
